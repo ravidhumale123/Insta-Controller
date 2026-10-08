@@ -1,0 +1,5 @@
+.env
+session.json
+sent_log.json
+.venv/
+__pycache__/
